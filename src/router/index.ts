@@ -1,12 +1,3 @@
-/*
- * @Author: shenhuanjie@live.cn
- * @Date: 2022-10-20 00:22:48
- * @LastEditors: shenhuanjie@live.cn
- * @LastEditTime: 2022-10-20 00:49:42
- * @FilePath: \src\router\index.ts
- * @Description:
- *
- */
 import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
 
