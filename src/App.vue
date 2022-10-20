@@ -8,9 +8,9 @@ import HelloWorld from "@/components/HelloWorld.vue";
     <img
       alt="Vue logo"
       class="logo"
-      height="125"
+      height="225"
       src="@/assets/logo.svg"
-      width="125"
+      width="225"
     />
 
     <div class="wrapper">
@@ -30,11 +30,12 @@ import HelloWorld from "@/components/HelloWorld.vue";
 header {
   line-height: 1.5;
   max-height: 100vh;
+  padding: 30px;
+}
 
-  .logo {
-    display: block;
-    margin: 0 auto 2rem;
-  }
+.logo {
+  display: block;
+  margin: 0 auto 2rem;
 }
 
 nav {
